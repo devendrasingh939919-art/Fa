@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": true,
+  "force": flase,
   "version_name": "2.0.0",
   "version_code": 2,
   "title": "New Update Available! 🚀",
